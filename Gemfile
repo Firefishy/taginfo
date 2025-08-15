@@ -5,4 +5,7 @@ gem 'rack'
 gem 'rack-contrib'
 gem 'sinatra', '~> 2.2.3'
 gem 'sinatra-r18n'
-gem 'sqlite3'
+gem 'sqlite3', '~> 2.2'
+gem "csv", "~> 3.3"
+gem "bigdecimal", "~> 3.2"
+gem "webrick", "~> 1.9"
